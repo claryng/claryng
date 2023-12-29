@@ -1,4 +1,4 @@
-### Hi
+### Hi ☀️☀️☀️
 👻 This is Clary!
 
 🧐 I'm interested in game development, machine learning, and cybersecurity.
