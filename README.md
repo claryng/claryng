@@ -1,7 +1,9 @@
 ### Hi ☀️☀️☀️
 👻 This is Clary!
 
-🧐 I'm interested in game development, machine learning, and cybersecurity.
+🧐 I'm interested in game development, machine learning, and cybersecurity. 
+
+👩🏻‍💻 Anything that is related to coding and problem-solving can catch my attention.
 
 🌱 I’m currently learning:
 - Game Engine: Unity, Godot
