@@ -1,6 +1,8 @@
 ### Hi ☀️☀️☀️
 👻 This is Clary!
 
+🎮 Try out my game here [Space Palletes on Google Play Store](https://play.google.com/store/apps/details?id=com.SpacePalettesStudio.SpacePalettes&hl=en&gl=US)
+
 🧐 I'm interested in game development, machine learning, and cybersecurity. 
 
 👩🏻‍💻 Anything that is related to coding and problem-solving can catch my attention.
