@@ -3,6 +3,8 @@
 
 🎮 Check out my game here [Space Palletes on Google Play Store](https://play.google.com/store/apps/details?id=com.SpacePalettesStudio.SpacePalettes&hl=en&gl=US)
 
+👩🏻‍💻 Check out my DevPost here [Clary's DevPost]([https://play.google.com/store/apps/details?id=com.SpacePalettesStudio.SpacePalettes&hl=en&gl=US](https://devpost.com/nguye236?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav))
+
 🧐 I'm interested in game development, machine learning, and cybersecurity. 
 
 👩🏻‍💻 Anything that is related to coding and problem-solving can catch my attention.
