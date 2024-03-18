@@ -1,6 +1,8 @@
 ### Hi ☀️☀️☀️
 👻 This is Clary!
 
+NOTE: If you are here for Space Palettes, then we're updating its version, please wait. In the meantime, please see the code in the repo below. Thanks!
+
 👩🏻‍💻 Check out my DevPost here [Clary's DevPost](https://devpost.com/nguye236?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 🧐 I'm interested in game development, machine learning, and cybersecurity. 
