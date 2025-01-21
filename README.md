@@ -1,7 +1,7 @@
 ### Hi ☀️☀️☀️
 👻 This is Clary!
 
-This is my [Resume](https://drive.google.com/file/d/1GwwXGq3vFVhbUIADfu3UMdjeey3Z9yVV/view?usp=sharing)
+This is my [Website](https://claryng.github.io/Clary-Website/)
 
 NOTE: If you are here for Space Palettes, then we're updating its version, please wait. In the meantime, please see the code in the repo below. Thanks!
 
